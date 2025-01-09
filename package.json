@@ -1,0 +1,9 @@
+{
+  "name": "lc",
+  "author": "Matthew Volk",
+  "type": "module",
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
